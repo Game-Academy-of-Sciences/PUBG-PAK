@@ -19,7 +19,7 @@
  I've seen some people get banned using 'Colored player PAK's. I suggest you'd better use it with something to prevent BattleEye from capture your screen.
 
 ## [Install]()
-### ~~[Download Release]~~ Link Deleted, Compile by yourself
+### [Download Release](https://github.com/goraegori/PUBG-PAK/raw/master/PInject/PInject/bin/Release.zip) No executable, Compile by yourself
 
 + On your first run
 ### 1. Compile Program and run.
