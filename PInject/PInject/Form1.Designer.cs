@@ -1,4 +1,4 @@
-﻿namespace PApplier
+﻿namespace PInject
 {
     partial class Form1
     {

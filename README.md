@@ -5,24 +5,33 @@
  Even after PUBG launched its official version, this exploit never been patched well.
  However, latest patch (v6.2.7.5) patched over-an-year method to bypass the checksum.
 
+ Later that patch, PUBG also handled with this method(let's say Timing method). Timing method itself is now patched.
+ As PUBG file management is not that strict, however, another method combined with Timing method is working perfectly.
+
 ## [So what is it?]()
- This is ANOTHER METHOD against latest patch to inject pak (Yes, literally, inject).
+ This is ANOTHER ~~ANOTHER~~ METHOD against latest patch to inject pak (Yes, literally, inject).
 
 ## [What you have to do]()
  That's all. It's already undetectable by BattleEye or Xigncode (whatever they use to protect client from modified).
  Take a look at it, Compile it, And Benefit :D
 
 ## [Things to Notice before use]()
- I've seen many people get banned using 'Colored player PAK's. I suggest you'd better use it with something to prevent BattleEye from capture your screen.
-## [How-to]()
-### [Download Release](https://github.com/goraegori/PUBG-PAK/raw/master/PInject/PInject/bin/Release.zip)
-### 1. (OPTIONAL) Put all your modified pak files & pakList.json in USB, VHD or whatever. (In my case, E:\res)
-### 2. Run the program and press start button.
-### 2-1. (Only in first run after update) Press "설정" (which is LinkedLabel)
-### 3. Run PUBG.
-### 4. (OPTIONAL) Press bypass button in the first game.
-### 5. (OPTIONAL) Eject Your USB or VHD.
-### 6. (REQUIRED) BENEFIT.
+ I've seen some people get banned using 'Colored player PAK's. I suggest you'd better use it with something to prevent BattleEye from capture your screen.
 
-# 6.2.7.9 Available
-# [HOPE It get patched soon :D]()
+## [Install]()
+### [Download Release](https://github.com/goraegori/PUBG-PAK/raw/master/PInject/PInject/bin/Release.zip)
+
++ On your first run
+### 1. Download Program, extract and run.
+### 2. After program is turned on, you can see the VHD(Virtual Drive) attached.(named PUBG)
+### 3. Put all your modified paks in 'VHD/res' folder and edit 'pakList.json'
+### 4. Click on '??' (Which is blue-labeled) and wait for message 'Done'
+### 5. Click on '??', and now the program is waiting for PUBG.
+### 6. Run PUBG and get into game, press '??' when you got plane.
+
++ On next run
+### 1. Run program, put your modified paks in 'VHD/res' folder.
+### (Repeat process 5~6 from above)
+
+# 6.3.6 Available and Confirmed
+# I want Blue(~~Ass~~)hole to take a look at this project. :D
