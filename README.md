@@ -22,7 +22,7 @@
 ### ~~[Download Release]~~ Link Deleted, Compile by yourself
 
 + On your first run
-### 1. Compile Program, extract and run.
+### 1. Compile Program and run.
 ### 2. After program is turned on, you can see the VHD(Virtual Drive) attached.(named PUBG)
 ### 3. Put all your modified paks in 'VHD/res' folder and edit 'pakList.json'
 ### 4. Click on '설정' (Which is blue-labeled) and wait for message 'Done'
