@@ -25,9 +25,9 @@
 ### 1. Download Program, extract and run.
 ### 2. After program is turned on, you can see the VHD(Virtual Drive) attached.(named PUBG)
 ### 3. Put all your modified paks in 'VHD/res' folder and edit 'pakList.json'
-### 4. Click on '??' (Which is blue-labeled) and wait for message 'Done'
-### 5. Click on '??', and now the program is waiting for PUBG.
-### 6. Run PUBG and get into game, press '??' when you got plane.
+### 4. Click on '설정' (Which is blue-labeled) and wait for message 'Done'
+### 5. Click on '적용', and now the program is waiting for PUBG.
+### 6. Run PUBG and get into game, press '우회' when you got plane.
 
 + On next run
 ### 1. Run program, put your modified paks in 'VHD/res' folder.
