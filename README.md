@@ -1,3 +1,5 @@
+#[This method was patched. Try to look at another view. PAK hacking is still available]()
+
 # PUBG PAK Inject
 ## [Introducing]()
  The game PUBG(PlayerUnknown's Battlegrounds) which is based on Unreal Engine 4 uses *.pak files to encrypt and pack game resource files.
